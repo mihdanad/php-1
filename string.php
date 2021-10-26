@@ -14,7 +14,6 @@
             SOAL NO 1
             Tunjukan dengan menggunakan echo berapa panjang dari string yang diberikan berikut! Tunjukkan juga jumlah kata di dalam kalimat 
             tersebut! 
-
             Contoh: 
             $string = "PHP is never old";
             Output:

@@ -130,7 +130,6 @@
     ];
     echo "<pre>";
     print_r($biodata);
-
     ?>
 </body>
 
